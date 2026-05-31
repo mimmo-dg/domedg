@@ -2,7 +2,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Header Banner"/>
 
   <h1>Ciao, sono Mimmo! 👾</h1>
-  <p><b>Cybersecurity Enthusiast | Systems Developer | CTF Player</b></p>
   
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=domedg&icon=0&color=0" alt="Profile Views">
@@ -11,19 +10,21 @@
 
 ---
 
-### ⚡ Terminal Log // About Me
-* 🔭 Sto sviluppando **Euriclea**, un tool TUI per il fingerprinting TCP.
-* 🧠 Ho recentemente implementato un ottimizzatore globale basato sull'algoritmo di **Piyavskii-Shubert**.
-* 🚩 Partecipo attivamente a competizioni **CTF**, con focus su network analysis, binary exploitation e reverse engineering (Ghidra & pwntools).
-* 🐧 Il mio habitat naturale: **Ubuntu** su ThinkPad, zsh, Kitty terminal.
-* 🎮 **Missione secondaria:** Mantenere un ping decente su Rocket League giocando da Linux.
+### 🟢 Terminal // System Status
+
+<div align="center">
+  <!-- Animazione Terminale Dinamica -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%3E_System+booted.+User%3A+Mimmo;%3E_Loading+TUI+Euriclea...;%3E_Connecting+to+CTF+servers...;%3E_Pinging+Rocket+League+servers...;%3E_Access+Granted." alt="Typing SVG" />
+  </a>
+</div>
 
 ---
 
 ### 💻 Tech Stack & Arsenal
 
 <p align="center">
-  <!-- Core -->
+  <!-- Core Languages -->
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/Assembly-%2300599C.svg?style=for-the-badge&logo=microchip&logoColor=white" alt="Assembly"/>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
@@ -41,19 +42,16 @@
 
 ---
 
-### 🏆 Achievement & Activity
+### 📊 System Analytics
 
 <div align="center">
-  <!-- Trofei GitHub dinamici -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=domedg&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
-  <br/><br/>
-
-  <!-- Grafico a linee dell'attività mensile -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=domedg&theme=dracula&hide_border=true&area=true" width="98%" alt="GitHub Activity Graph" />
+  <!-- Activity Graph (Grafico a linee dei commit in stile terminale) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=domedg&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF" width="98%" alt="GitHub Activity Graph" />
   <br/><br/>
   
-  <!-- Statistiche Streak aggiornate tramite server sicuro demolab -->
-  <img src="https://streak-stats.demolab.com/?user=domedg&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" width="98%" alt="GitHub Streak Stats" />
+  <!-- Streak Stats (Server affidabile con colori Matrix) -->
+  <img src="https://streak-stats.demolab.com/?user=domedg&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakNum=00FF00&currStreakLabel=00FF00&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" width="48%" alt="GitHub Streak Stats" />
+  
+  <!-- Top Languages (Grafico Donut Verticale hacker-themed) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=domedg&layout=donut-vertical&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00" width="48%" alt="Top Languages"/>
 </div>
