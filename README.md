@@ -12,7 +12,7 @@
   </a>
 </div>
 
-### 👤 Whoami // System Profile
+### 👤 Whoami
 * 🎓 **Education:** Pursuing an M.Sc. in Computer Engineering (Cybersecurity specialization) at UNICAL.
 * 🛡️ **Cybersecurity:** Passionate CTF player focusing heavily on network analysis, binary exploitation, and reverse engineering.
 
@@ -20,7 +20,6 @@
 * 🏆 **Milestones:** Currently gearing up for the national cybersecurity competition finals (CyberChallenge) this early July!
 * 💻 **Development:** I enjoy building custom security tools and TUI applications, always coding and breaking things from my Ubuntu ThinkPad.
 -->
----
 
 ### 💻 Tech Stack & Arsenal
 
@@ -65,13 +64,7 @@
   </picture>
 </div>
 
-### 📂 Active Operations // Pinned Projects
 
-<div align="center">
-  <!-- Card Progetto 1: Tool TUI -->
-  <a href="https://github.com/domedg/euriclea">
-    <img src="https://github-readme-stats.demolab.com/api/pin/?username=domedg&repo=euriclea&theme=react-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00" width="48%" alt="Euriclea TUI"/>
-  </a>
   
   <!-- Card Progetto 2: Ottimizzatore Globale -->
   <a href="https://github.com/domedg/piyavskii-shubert-optimizer">
