@@ -5,10 +5,6 @@
   <p><b>Cybersecurity Engineering | Systems Developer | CTF Player</b></p>
 </div>
 
----
-
-### 🟢 Terminal // System Status
-
 <div align="center">
   <!-- Animazione Terminale Dinamica -->
   <a href="https://git.io/typing-svg">
