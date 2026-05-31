@@ -63,11 +63,4 @@
   </picture>
 </div>
 
-<p align="center">
-  <!-- Badge CyberChallenge -->
-  <img src="https://img.shields.io/badge/CyberChallenge.it_2026-National_Finalist-%23000000?style=for-the-badge&logo=hackthebox&logoColor=white&color=black&labelColor=E02A26" alt="CyberChallenge">
-  
-  <!-- Badge Team UNICAL -->
-  <img src="https://img.shields.io/badge/Team_UNICAL-Cybersecurity-%23000000?style=for-the-badge&logo=linux&logoColor=white&color=black&labelColor=00599C" alt="Team UNICAL">
-</p>
 
