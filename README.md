@@ -64,3 +64,17 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/domedg/domedg/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+
+### 📂 Active Operations // Pinned Projects
+
+<div align="center">
+  <!-- Card Progetto 1: Tool TUI -->
+  <a href="https://github.com/domedg/euriclea">
+    <img src="https://github-readme-stats.demolab.com/api/pin/?username=domedg&repo=euriclea&theme=react-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00" width="48%" alt="Euriclea TUI"/>
+  </a>
+  
+  <!-- Card Progetto 2: Ottimizzatore Globale -->
+  <a href="https://github.com/domedg/piyavskii-shubert-optimizer">
+    <img src="https://github-readme-stats.demolab.com/api/pin/?username=domedg&repo=piyavskii-shubert-optimizer&theme=react-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00" width="48%" alt="Global Optimizer"/>
+  </a>
+</div>
