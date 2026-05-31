@@ -12,6 +12,12 @@
   </a>
 </div>
 
+### 👤 Whoami // System Profile
+* 🎓 **Education:** Pursuing an M.Sc. in Computer Engineering (Cybersecurity specialization) at UNICAL.
+* 🛡️ **Cybersecurity:** Passionate CTF player focusing heavily on binary exploitation, reverse engineering, and network analysis.
+* 🏆 **Milestones:** Currently gearing up for the national cybersecurity competition finals (CyberChallenge) this early July!
+* 💻 **Development:** I enjoy building custom security tools and TUI applications, always coding and breaking things from my Ubuntu ThinkPad.
+
 ---
 
 ### 💻 Tech Stack & Arsenal
