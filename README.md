@@ -39,7 +39,6 @@
   <img src="https://img.shields.io/badge/MATLAB-%23ED8B00.svg?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
   <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
 </p>
----
 
 ### 📊 System Analytics
 
@@ -64,10 +63,11 @@
   </picture>
 </div>
 
-
+<p align="center">
+  <!-- Badge CyberChallenge -->
+  <img src="https://img.shields.io/badge/CyberChallenge.it_2026-National_Finalist-%23000000?style=for-the-badge&logo=hackthebox&logoColor=white&color=black&labelColor=E02A26" alt="CyberChallenge">
   
-  <!-- Card Progetto 2: Ottimizzatore Globale -->
-  <a href="https://github.com/domedg/piyavskii-shubert-optimizer">
-    <img src="https://github-readme-stats.demolab.com/api/pin/?username=domedg&repo=piyavskii-shubert-optimizer&theme=react-dark&hide_border=true&bg_color=0D1117&title_color=00FF00&text_color=FFFFFF&icon_color=00FF00" width="48%" alt="Global Optimizer"/>
-  </a>
-</div>
+  <!-- Badge Team UNICAL -->
+  <img src="https://img.shields.io/badge/Team_UNICAL-Cybersecurity-%23000000?style=for-the-badge&logo=linux&logoColor=white&color=black&labelColor=00599C" alt="Team UNICAL">
+</p>
+
