@@ -15,7 +15,7 @@
 * 🔭 Sto sviluppando **Euriclea**, un tool TUI per il fingerprinting TCP.
 * 🧠 Ho recentemente implementato un ottimizzatore globale basato sull'algoritmo di **Piyavskii-Shubert**.
 * 🚩 Partecipo attivamente a competizioni **CTF**, con focus su network analysis, binary exploitation e reverse engineering (Ghidra & pwntools).
-* 🐧 Il mio habitat naturale: **Ubuntu**, zsh, Kitty terminal.
+* 🐧 Il mio habitat naturale: **Ubuntu** su ThinkPad, zsh, Kitty terminal.
 * 🎮 **Missione secondaria:** Mantenere un ping decente su Rocket League giocando da Linux.
 
 ---
@@ -41,11 +41,19 @@
 
 ---
 
-### 📊 System Analytics
+### 🏆 Achievement & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=domedg&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=domedg&theme=tokyonight&hide_border=true&layout=compact" width="48%" alt="Top Languages"/>
+  <!-- Trofei GitHub dinamici -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=domedg&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+  </a>
   <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=domedg&theme=tokyonight&hide_border=true" width="98%" alt="GitHub Streak Stats"/>
+
+  <!-- Grafico a linee dell'attività mensile -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=domedg&theme=dracula&hide_border=true&area=true" width="98%" alt="GitHub Activity Graph" />
+  <br/><br/>
+  
+  <!-- Statistiche Streak aggiornate tramite server sicuro demolab -->
+  <img src="https://streak-stats.demolab.com/?user=domedg&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" width="98%" alt="GitHub Streak Stats" />
 </div>
