@@ -8,7 +8,7 @@
 <div align="center">
   <!-- Animazione Terminale Dinamica -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%3E_System+booted.+User%3A+domedg;%3E_M.Sc.+Cybersecurity+%40+UNICAL;%3E_Connecting+to+CTF+servers...;%3E_Running+binary+analysis...;%3E_Access+Granted." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%3E_System+booted.+User%3A+domedg;%3E_M.Sc.+Cybersecurity+%40+UNICAL" alt="Typing SVG" />
   </a>
 </div>
 
