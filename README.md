@@ -1,66 +1,51 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Header Banner"/>
-
-  <h1>Domenico | domedg 👾</h1>
+  <h1>👋 Hi, I'm Domenico | domedg</h1>
   <p><b>Cybersecurity Engineering | Systems Developer | CTF Player</b></p>
 </div>
 
 <div align="center">
-  <!-- Animazione Terminale Dinamica -->
+  <!-- Animazione di testo elegante in blu -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%3E_System+booted.+User%3A+domedg;%3E_M.Sc.+Cybersecurity+%40+UNICAL" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=%3E_M.Sc.+Cybersecurity+%40+UNICAL;%3E_Network+Security+%26+Infrastructure+Defense;%3E_A%2FD+CTF+Player" alt="Typing SVG" />
   </a>
 </div>
 
-### 👤 Whoami
-* 🎓 **Education:** Pursuing an M.Sc. in Computer Engineering (Cybersecurity specialization) at UNICAL.
-* 🛡️ **Cybersecurity:** Passionate CTF player focusing heavily on network analysis, binary exploitation, and reverse engineering.
-
-<!--
-* 🏆 **Milestones:** Currently gearing up for the national cybersecurity competition finals (CyberChallenge) this early July!
-* 💻 **Development:** I enjoy building custom security tools and TUI applications, always coding and breaking things from my Ubuntu ThinkPad.
--->
-
-### 💻 Tech Stack & Arsenal
-
-<p align="center">
-  <!-- Core Languages -->
-  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-  <img src="https://img.shields.io/badge/Assembly-%2300599C.svg?style=for-the-badge&logo=microchip&logoColor=white" alt="Assembly"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript"/>
-</p>
-
-<p align="center">
-  <!-- DevOps & Tools -->
-  <img src="https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
-  <img src="https://img.shields.io/badge/MATLAB-%23ED8B00.svg?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB"/>
-  <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX"/>
-</p>
-
-### 📊 System Analytics
-
 <div align="center">
-  <!-- Activity Graph (Grafico a linee dei commit in stile terminale) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=domedg&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00FF00&line=00FF00&point=FFFFFF" width="98%" alt="GitHub Activity Graph" />
-  <br/><br/>
-  
-  <!-- Streak Stats (Server affidabile con colori Matrix) -->
-  <img src="https://streak-stats.demolab.com/?user=domedg&hide_border=true&background=0D1117&ring=00FF00&fire=00FF00&currStreakNum=00FF00&currStreakLabel=00FF00&sideNums=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF" width="98%" alt="GitHub Streak Stats" />
+  <a href="https://www.linkedin.com/in/domenico-del-giudice-63a297422/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:domedg5@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </div>
 
 ---
 
-### 🐍 Contribution Activity
+### 👤 About Me
+I am a Computer Engineering graduate and a Cybersecurity Master's student at the University of Calabria (UniCal). I have a deep passion for network analysis, traffic monitoring, and infrastructure defense. My focus lies in analyzing network protocols, deploying defensive environments (such as honeypots), and proactively solving complex technical challenges within dedicated Network Security and SOC environments.
+
+### 🏆 Awards & Milestones
+* **CyberChallenge.IT National Finalist (2026):** Managed the A/D infrastructure and automated security tools, while actively identifying, exploiting, and patching web vulnerabilities during the national CTF.
+
+### 🔥 Featured Projects
+* 🛡️ **[Industrial Security Honeypot](https://github.com/domedg)**
+  *Adapted the T-Pot platform for macOS environments to analyze industrial network security. Conducted practical vulnerability testing via Modbus exploits using Conpot to evaluate OT (Operational Technology) defense strategies.*
+* 🔍 **[Social Exposure Analyzer (OSINT)](https://github.com/domedg)**
+  *Developed an automated Open Source Intelligence tool utilizing AI to gather, analyze, and validate public data to accurately quantify and assess the risk of social engineering attacks.*
+* ⚡ **[High-Performance ANN Search](https://github.com/domedg)**
+  *Implemented an Approximate Nearest Neighbor (ANN) search system using C and Assembly. Engineered low-level optimizations using SIMD Assembly instructions (SSE/AVX) to significantly accelerate complex distance calculations.*
+
+### 💻 Tech Stack & Arsenal
+
+**Languages:**
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Assembly](https://img.shields.io/badge/assembly-%2300599C.svg?style=for-the-badge&logo=microchip&logoColor=white) ![MATLAB](https://img.shields.io/badge/matlab-%23ED8B00.svg?style=for-the-badge&logo=mathworks&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**Security & Networking:**
+![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-%23121011.svg?style=for-the-badge&logo=nmap&logoColor=white) ![Suricata](https://img.shields.io/badge/Suricata-%23ED8B00.svg?style=for-the-badge&logo=suricata&logoColor=white) ![OSINT](https://img.shields.io/badge/OSINT-%23323330.svg?style=for-the-badge) ![T-Pot](https://img.shields.io/badge/T--Pot-%2300599C.svg?style=for-the-badge) ![Conpot](https://img.shields.io/badge/Conpot-%23121011.svg?style=for-the-badge) ![GDB](https://img.shields.io/badge/GDB-%234EAA25.svg?style=for-the-badge)
+
+---
+
+### 📊 System Analytics
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/domedg/domedg/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/domedg/domedg/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/domedg/domedg/output/github-contribution-grid-snake.svg">
-  </picture>
+  <!-- Grafici con un tema moderno e pulito (tokyonight) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=domedg&theme=tokyonight&hide_border=true&area=true" width="98%" alt="GitHub Activity Graph" />
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com/?user=domedg&theme=tokyonight&hide_border=true" width="98%" alt="GitHub Streak Stats" />
 </div>
-
-
