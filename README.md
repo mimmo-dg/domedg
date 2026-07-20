@@ -1,12 +1,15 @@
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Header Banner"/>
+  <br/><br/>
+  
   <h1>👋 Hi, I'm Domenico | domedg</h1>
-  <p><b>Cybersecurity Engineering | Systems Developer | CTF Player</b></p>
+  <p><b>Cybersecurity Engineering | Systems Developer | A/D CTF Player</b></p>
 </div>
 
 <div align="center">
-  <!-- Animazione di testo elegante in blu -->
+  <!-- Animazione di testo elegante in azzurro -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=%3E_M.Sc.+Cybersecurity+%40+UNICAL;%3E_Network+Security+%26+Infrastructure+Defense;%3E_A%2FD+CTF+Player" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%3E_M.Sc.+Cybersecurity+%40+UNICAL;%3E_Network+Security+%26+Infrastructure;%3E_A%2FD+CTF+Player" alt="Typing SVG" />
   </a>
 </div>
 
@@ -18,7 +21,7 @@
 ---
 
 ### 👤 About Me
-I am a Computer Engineering graduate and a Cybersecurity Master's student at the University of Calabria (UniCal). I have a deep passion for network analysis, traffic monitoring, and infrastructure defense. My focus lies in analyzing network protocols, deploying defensive environments (such as honeypots), and proactively solving complex technical challenges within dedicated Network Security and SOC environments.
+I am a Computer Engineering graduate and a Cybersecurity Master's student at the University of Calabria (UniCal). I have a deep passion for network analysis, traffic monitoring, and infrastructure defense. My focus lies in analyzing network protocols, deploying defensive environments, and proactively solving complex technical challenges within dedicated Network Security and SOC environments.
 
 ### 🏆 Awards & Milestones
 * **CyberChallenge.IT National Finalist (2026):** Managed the A/D infrastructure and automated security tools, while actively identifying, exploiting, and patching web vulnerabilities during the national CTF.
@@ -33,19 +36,19 @@ I am a Computer Engineering graduate and a Cybersecurity Master's student at the
 
 ### 💻 Tech Stack & Arsenal
 
-**Languages:**
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Assembly](https://img.shields.io/badge/assembly-%2300599C.svg?style=for-the-badge&logo=microchip&logoColor=white) ![MATLAB](https://img.shields.io/badge/matlab-%23ED8B00.svg?style=for-the-badge&logo=mathworks&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+**Languages & Scripts:**
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Assembly](https://img.shields.io/badge/Assembly-%232D2D2D.svg?style=for-the-badge&logo=microchip&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white)
 
-**Security & Networking:**
-![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-%23121011.svg?style=for-the-badge&logo=nmap&logoColor=white) ![Suricata](https://img.shields.io/badge/Suricata-%23ED8B00.svg?style=for-the-badge&logo=suricata&logoColor=white) ![OSINT](https://img.shields.io/badge/OSINT-%23323330.svg?style=for-the-badge) ![T-Pot](https://img.shields.io/badge/T--Pot-%2300599C.svg?style=for-the-badge) ![Conpot](https://img.shields.io/badge/Conpot-%23121011.svg?style=for-the-badge) ![GDB](https://img.shields.io/badge/GDB-%234EAA25.svg?style=for-the-badge)
+**Security, Networking & Infrastructure:**
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-2D2D2D?style=for-the-badge&logo=nmap&logoColor=white) ![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logo=suricata&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![GDB](https://img.shields.io/badge/GDB-39B54A?style=for-the-badge&logo=gnu&logoColor=white)
 
 ---
 
 ### 📊 System Analytics
 
 <div align="center">
-  <!-- Grafici con un tema moderno e pulito (tokyonight) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=domedg&theme=tokyonight&hide_border=true&area=true" width="98%" alt="GitHub Activity Graph" />
+  <!-- Grafici con tema GitHub Dark per eliminare il rosa -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=domedg&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&title_color=FFFFFF&axes_color=FFFFFF&hide_border=true&area=true" width="98%" alt="GitHub Activity Graph" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com/?user=domedg&theme=tokyonight&hide_border=true" width="98%" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=domedg&theme=github-dark&hide_border=true" width="98%" alt="GitHub Streak Stats" />
 </div>
