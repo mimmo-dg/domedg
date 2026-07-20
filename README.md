@@ -3,7 +3,7 @@
   <br/><br/>
   
   <h1>👋 Hi, I'm Domenico | mimmocrazy</h1>
-  <p><b>Cybersecurity Engineering | Systems Developer | A/D CTF Player</b></p>
+  <p><b>Cybersecurity Engineering | A/D CTF Player</b></p>
 </div>
 
 <div align="center">
